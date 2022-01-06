@@ -107,6 +107,8 @@ footer{
     width: 100%;
     margin: 0%;
     padding:25px;
+    left: 0;
+    bottom: 0;
 }
 #footer-color{
     font-family: fantasy;
