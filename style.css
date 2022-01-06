@@ -66,3 +66,49 @@ h1{
     padding: 30px 30px 40px;
     border-radius: 10px;
 }
+.Developing{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    margin: 60px;
+    padding-left: 70px;
+}
+#coding-img{
+    width: 50%;
+    margin-left: 20px;
+}
+#developing-half{
+    width: 50%;
+    font-size: 17px;
+}
+.global-community{
+    display: flex;
+    background-image: url(images/shape-1.png);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    margin: 50px;
+    padding-left: 60px;
+}
+#global-img{
+    width: 50%;
+    margin-left: 80px;   
+}
+.Stay-safe{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 40px;
+    padding: 20px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 100%;
+    margin: 0%;
+    padding:25px;
+}
+#footer-color{
+    font-family: fantasy;
+    color: tomato;  
+}
